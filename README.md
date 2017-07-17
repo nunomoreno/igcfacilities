@@ -1,4 +1,3 @@
 # igcfacilities
 IGC facilities webpage
-
-###Hello IGC users!
+<b>Hello IGC users!</b>
